@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(193, 193, 192);
+}
+.container{
+    background-color: rgb(229, 239, 83);
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 270px;
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+#btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(251, 218, 177);
+}
+#output{
+    font-size: 25px;
+    margin: 25px auto;
+    color: rgb(84, 83, 83);
+
+}
